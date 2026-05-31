@@ -116,6 +116,8 @@ LIMIT 5;
 | Tableau  | 3,745       |
 | Power BI | 2,609       |
 
+![Top 5 Most In-Demand Skills](assets/3_top_demanded_skills.png)
+
 **What I found:** SQL and Excel are non-negotiable fundamentals. Python and visualization tools are where you separate yourself from the crowd.
 
 ---
@@ -143,6 +145,8 @@ LIMIT 25;
 - Big data tools like **PySpark** ($208K avg) and **Couchbase** ($160K) dominate
 - Cloud platforms — **GCP, Databricks, Elasticsearch** — signal premium pay
 - DevOps crossover skills like **Kubernetes** and **Airflow** are surprisingly lucrative
+
+![Top 25 Skills by Average Salary](assets/4_top_paying_skills.png)
 
 ---
 

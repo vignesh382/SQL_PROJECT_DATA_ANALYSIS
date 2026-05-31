@@ -58,6 +58,7 @@ LIMIT 10;
 - Salaries range from **$184,000 to $650,000** — the ceiling is much higher than expected
 - Top employers include Meta, AT&T, and SmartAsset
 - Titles vary widely — from Data Analyst to Director of Analytics
+
 ![Top 10 Highest Paying Data Analyst Jobs](assets/1_top_paying_jobs.png)
 
 ---
